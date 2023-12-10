@@ -7,7 +7,7 @@ CXX = g++
 TARGET = gatorlibraryfile_raghavrathi
 
 # Source file
-SRC = t1.cpp
+SRC = raghav_rathi.cpp
 
 all: $(TARGET)
 
